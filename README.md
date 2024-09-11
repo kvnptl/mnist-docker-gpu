@@ -1,4 +1,4 @@
-# A Simple MNIST Classifier + Docker + NVIDIA GPU
+# Simple MNIST Classifier + Docker + NVIDIA GPU
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5e1dd42-5ab0-484b-8bea-001bef1b9a1e" />
